@@ -1,90 +1,43 @@
 # Bienvenue sur ma page !
 
-Je suis **<Ton Nom>**, <ta profession/ton slogan>, avec <X> années d’expérience en <tes domaines>.
+Je suis **Steven**, Data Engineer chez SNCF, avec 2 années d’expérience.
 
 ---
 
-## 🎯 Projets phares / Produits
+## 🎯 Projets clés
 
-- **Projet 1** : description et lien
-- **Produit 2** : description et lien
-- **Newsletter, service…**
+- **Projet personnel** : Une application pour optimiser votre stratégie de DCA (Dollar-Cost Averaging).
+- **Projet professionnel** : Création d'un tableau de bord pour suivre les coûts d'une plateforme de données.
 
 ---
 
-## 🛠️ Ce que je fais
+## 🛠️ Ce que je fais en entreprise
 
-- Rôle ou activité 1 (ex. : auteur, formateur…)
-- Rôle ou activité 2
-- ...
-  
+- Data Engineering : 50% du temps
+- Data Analyse : 30% du temps
+- Explication, vulgarisation, et Présentation : 20% du temps 
+
 ---
 
 ## 📚 Mes expertises
 
-| Domaine                  | Technologies                                                                 |
-|-------------------------|------------------------------------------------------------------------------|
-| Analyse de données      | pandas · SQL · (autre techno)                                       |
-| Visualisation           | Power BI · Streamlit                                                |
-| Automatisation          | FastAPI · GitHub Actions · (autre…)                                        |
-| DevOps / CI‑CD          | Git · Docker · CI/CD                                                        |
-| …                       | …                                                                            |
-
----
-
-## 🎓 Ce que j’enseigne
-
-- Exemple 1 – Description courte
-- Exemple 2 – Description courte
-- …
-
----
-
-## 🚧 Projets en cours
-
-### Publications / Articles
-- *Titre du projet* (statut : en cours / à venir)
-
-### Outils en dev
-- *Nom de l’outil* – brève description
-
----
-
-## 💻 Open Source
-
-- **Nom du repo** : description (ex. baribal pour pandas…) :contentReference[oaicite:3]{index=3}
-- …
-
----
-
-## 📝 Articles récents
-
-- ✅ Titre de l’article 1
-- Titre de l’article 2
-- …
-
----
+| Domaine                   | Technologies                                                                 |
+|---------------------------|------------------------------------------------------------------------------|
+| **Analyse des données**   | ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-blue.svg?style=for-the-badge)  ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Visualisation des données** | ![Power BI](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) |
+| **Automation**             | ![FastAPI](https://img.shields.io/badge/FastAPI-05998B.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **DevOps**                 | ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A.svg?style=for-the-badge) |
 
 ## 📬 Contact / Restez connectés
 
-- LinkedIn : [ton profil]
-- Twitter : [ton pseudo] (optionnel)
-- Email : ton.email@example.com
-- Site Web : https://ton-site.web
+- LinkedIn : [https://www.linkedin.com/in/steven-foulon-69332514378921788486211/]
+- Email : flstevenpro@outlook.fr
 
 ---
 
 ## 🌟 Ma mission
 
 > Ta phrase inspirante ou citation (comme : “Simplicity is the ultimate sophistication.”)
-
----
-
-## 📊 Statistiques GitHub (facultatif)
-![GitHub stats](https://github.com/<ton-nom-utilisateur>.png?…)
- ![Top langs](https://github.com/<ton-nom-utilisateur>.png?…)
-
----
 
 ## 📌 Épinglés (Pinned Repos)
 
