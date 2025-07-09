@@ -23,7 +23,7 @@ Je suis **Steven**, Data Engineer chez SNCF, avec 2 années d’expérience.
 
 | Domaine                   | Technologies                                                                 |
 |---------------------------|------------------------------------------------------------------------------|
-| **Analyse des données (Librairies Python)**   | ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-1A4B73.svg?style=for-the-badge&logo=python&logoColor=white) |
+| **Analyse des données (Librairies Python)**   | ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-1A4B73.svg?style=for-the-badge&logo=python&logoColor=white)|
 | **Visualisation des données** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) |
 | **Base de données**        | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **ETL**                    | ![Databricks](https://img.shields.io/badge/Databricks-EF3E42.svg?style=for-the-badge&logo=databricks&logoColor=white) |
