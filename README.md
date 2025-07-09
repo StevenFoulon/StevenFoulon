@@ -1,7 +1,6 @@
 # 👋 Bienvenue !
 
 Je suis **Steven FOULON**, ancien manager chez Carrefour, aujourd’hui **Data Engineer chez SNCF** après une reconversion réussie dans la tech.
-
 Avec **2 ans d'expérience dans la Data**, je conçois des solutions robustes pour transformer la donnée en levier de décision.
 
 ---
@@ -25,8 +24,8 @@ Avec **2 ans d'expérience dans la Data**, je conçois des solutions robustes po
 
 | Domaine                        | Technologies                                                                                                                                                                                                                            |
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Analyse de données**         | ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white) <img src="https://raw.githubusercontent.com/pola-rs/polars-static/main/docs/polars.svg" alt="Polars" height="28"/> |
-| **Visualisation**              | ![Power BI](https://img.shields.io/badge/Power%20BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white) |
+| **Analyse de données**         | ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white) <img src="https://raw.githubusercontent.com/TON_PSEUDO/TON_REPO/main/polars_logo.png" alt="Polars" height="28"/>            |
+| **Visualisation**              | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge\&logo=powerbi\&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white) |
 | **Bases de données**           | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)                                                                                                                 |
 | **ETL / Pipeline**             | ![Databricks](https://img.shields.io/badge/Databricks-EF3E42.svg?style=for-the-badge\&logo=databricks\&logoColor=white)                                                                                                                 |
 | **Orchestration & Automation** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE.svg?style=for-the-badge\&logo=apache-airflow\&logoColor=white)                                                                                                                   |
