@@ -33,6 +33,7 @@ Avec **2 ans d'expérience dans la Data**, je conçois des solutions robustes po
 | **API Web**                    | ![FastAPI](https://img.shields.io/badge/FastAPI-05998B.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask_API-000000.svg?style=for-the-badge&logo=flask&logoColor=white)       |
 | **DevOps**                     | ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)                    |
 | **CI/CD**                      | ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)                                                                                                                |
+| **Cloud**                      | ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)                                                                                                                           |
 
 ---
 
