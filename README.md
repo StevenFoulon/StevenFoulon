@@ -15,7 +15,7 @@ Avec **2 ans d'expérience dans la Data**, je conçois des solutions robustes po
 
 ## 🔍 Ce que je fais au quotidien
 
-* **Data Engineering** : 50 % – Construction de pipelines, automatisation, industrialisation  
+* **Data Engineering** : 50 % – Construction de pipelines ETL, automatisation ETL, industrialisation
 * **Data Analyse** : 30 % – Exploration, visualisation, recommandations  
 * **Communication & vulgarisation** : 20 % – Présentations claires pour des publics non techniques  
 
