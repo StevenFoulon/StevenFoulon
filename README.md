@@ -8,8 +8,8 @@ Avec **2 ans d'expérience dans la Data**, je conçois des solutions robustes po
 
 ## Projets
 
-* **🧠 Projet personnel** : Développement d’un outil d’aide à la décision pour optimiser les investissements en DCA (Dollar-Cost Averaging).
-* **💼 Projet professionnel** : Mise en place d’un dashboard pour suivre et optimiser les coûts **AWS** d'une plateforme data.
+* **Projet personnel** : Développement d’un outil d’aide à la décision pour optimiser les investissements en DCA (Dollar-Cost Averaging).
+* **Projet professionnel** : Mise en place d’un dashboard pour suivre et optimiser les coûts **AWS** d'une plateforme data.
 
 ---
 
