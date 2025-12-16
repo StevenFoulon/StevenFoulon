@@ -1,4 +1,4 @@
-# 👋 Bienvenue !
+# Bienvenue !
 
 Je suis **Steven FOULON**, ancien manager chez Carrefour, aujourd’hui **Data Engineer chez SNCF** après une reconversion réussie dans la tech.
 
@@ -6,14 +6,14 @@ Avec **2 ans d'expérience dans la Data**, je conçois des solutions robustes po
 
 ---
 
-## 🚀 Projets marquants
+## Projets
 
 * **🧠 Projet personnel** : Développement d’un outil d’aide à la décision pour optimiser les investissements en DCA (Dollar-Cost Averaging).
 * **💼 Projet professionnel** : Mise en place d’un dashboard pour suivre et optimiser les coûts **AWS** d'une plateforme data.
 
 ---
 
-## 🔍 Ce que je fais au quotidien
+## Ce que je fais au quotidien
 
 * **Data Engineering** : 50 % – Construction de pipelines ETL, automatisation ETL, industrialisation
 * **Data Analyse** : 30 % – Exploration, visualisation, recommandations  
@@ -21,7 +21,7 @@ Avec **2 ans d'expérience dans la Data**, je conçois des solutions robustes po
 
 ---
 
-## 🧰 Mes expertises
+## Mes expertises
 
 | Domaine                        | Technologies                                                                                                                                                                                                                   |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -37,13 +37,13 @@ Avec **2 ans d'expérience dans la Data**, je conçois des solutions robustes po
 
 ---
 
-## 📬 Me contacter
+## Me contacter
 
-* 💼 LinkedIn : [steven-foulon](https://www.linkedin.com/in/steven-foulon-69332514378921788486211/)
-* ✉️ Email : [flstevenpro@outlook.fr](mailto:flstevenpro@outlook.fr)
+* LinkedIn : [steven-foulon](https://www.linkedin.com/in/steven-foulon-69332514378921788486211/)
+* Email : [flstevenpro@outlook.fr](mailto:flstevenpro@outlook.fr)
 
 ---
 
-## ✨ Ma mission
+## Ma mission
 
 > “Transformer la complexité des données en solutions simples, utiles et accessibles.”
