@@ -1,6 +1,6 @@
 # Bienvenue !
 
-Je suis **Steven FOULON**, ancien manager chez Carrefour, aujourd’hui **Data Engineer chez SNCF**.
+Je suis **Steven FOULON**, ancien manager chez Carrefour, aujourd’hui **Analytics Engineer chez SNCF**.
 
 Avec **2 ans d'expérience dans la Data**, je conçois des solutions robustes pour transformer la donnée en levier de décision.
 
